@@ -5,7 +5,7 @@ Projeto desenvolvido para [descrição breve aqui].
 Layout
 Veja abaixo uma prévia do layout do sistema:
 
-(./img/layout.gif)
+<img src="./img/layout.gif"/>
 
 Tecnologias
 - HTML  
